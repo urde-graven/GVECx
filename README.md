@@ -13,7 +13,7 @@ Run following to generate stardict format (requires `xlsx2csv`, `ruby`, `python3
 ```
 $ ./gen-stardict.sh
 ```
-Result can be downloaded from [releases](https://github.com/urde-graven/GVECx/releases) / Výsledek lze stáhnout z [vydání](https://github.com/urde-graven/GVECx/releases) / La rezulto elŝuteblas de la [eldonoj](https://github.com/urde-graven/GVECx/releases).
+Result can be downloaded from [releases](https://github.com/urde-graven/GVECx/releases) / Výsledek lze stáhnout z [vydání](https://github.com/urde-graven/GVECx/releases) / La rezulto estas elŝutebla de la [eldonoj](https://github.com/urde-graven/GVECx/releases).
 
 ## How to inspect XLSX on Linux
 
