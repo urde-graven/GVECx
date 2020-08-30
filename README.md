@@ -1,5 +1,5 @@
 # Granda Vortaro Esperanta-Ĉeĥa - GVEĈ
-## Velký slovník esperantsko - český
+## Large Esperanto-Czech dictionary / Velký slovník esperantsko-český
 
 Downloaded from http://www.esperanto.wz.cz/ (http://esperanto.wz.cz/Slovniky/GVECx_11_A.xlsx)
 
@@ -13,7 +13,7 @@ Run following to generate stardict format (requires `xlsx2csv`, `ruby`, `python3
 ```
 $ ./gen-stardict.sh
 ```
-Result can be downloaded from [releases](https://github.com/urde-graven/GVECx/releases).
+Result can be downloaded from [releases](https://github.com/urde-graven/GVECx/releases) / Výsledek lze stáhnout z [vydání](https://github.com/urde-graven/GVECx/releases) / La rezulto elŝuteblas de la [eldonoj](https://github.com/urde-graven/GVECx/releases).
 
 ## How to inspect XLSX on Linux
 
